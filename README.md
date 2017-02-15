@@ -11,6 +11,9 @@ Copyright (c) 2017 Zilbercoin Developers
 # zilbercoin-source.tar.gz - Right full archive cryptocurrency source
 
 What is Zilbercoin?
+
+Zilbercoin is a PoS-based cryptocurrency.
+
 ----------------
 
 Zilbercoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
